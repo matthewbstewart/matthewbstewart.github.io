@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Asteroidmatts.data.unityweb",
+"asmCodeUrl": "Asteroidmatts.asm.code.unityweb",
+"asmMemoryUrl": "Asteroidmatts.asm.memory.unityweb",
+"asmFrameworkUrl": "Asteroidmatts.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
